@@ -1,1 +1,8 @@
-# github_test2
+GitHub Pages Exercise 
+=========== 
+ 
+Involves 
+ * git 
+ * GitHub 
+ * SSH 
+
